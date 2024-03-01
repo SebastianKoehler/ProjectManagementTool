@@ -1,0 +1,24 @@
+# Visual Studio 2022
+.vs/
+
+# Build-Verzeichnisse
+bin/
+obj/
+
+# Verzeichnisse für Anwendungsbilder
+Properties/launchSettings.json
+
+# Temporäre Dateien
+*.tmp
+*.log
+
+# Datenbank-relevante Dateien
+ProjectOrganizer.db
+
+# Visual Studio Dateien
+*.user
+*.sln
+
+# Konfigurationen & Sicherheitsrelevante Dateien
+appsettings.json 
+appsettings.*.json
